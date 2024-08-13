@@ -1,0 +1,11 @@
+*{
+      font-family: "Poppins", sans-serif;
+}
+
+.background-primary-hover:hover{
+      background-color: #5370e8;
+}
+
+.background-primary{
+      background-color: #5370e8!important;
+}
